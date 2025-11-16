@@ -15,7 +15,7 @@ import { initPagination } from './components/pagination.js';
 
 
 // Исходные данные используемые в render()
-const api =  initData();
+const api = initData();
 
 /**
  * Сбор и обработка полей из таблицы
